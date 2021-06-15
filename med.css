@@ -1,0 +1,263 @@
+
+
+* {
+	
+	
+	
+	padding:0;
+	
+	margin: 0;
+	
+	border: 0;
+}
+
+
+
+
+
+body {
+
+
+
+		width: 100%;
+		height: 100vh;
+		
+/*		border: 3px solid red; */
+
+background-color: hotpink;
+
+
+
+
+	
+}
+
+
+header {
+
+
+
+		width: 100%;
+		height: 150px;
+		
+	/*	border: 3px solid red; */
+		
+		
+		display: flex;
+		
+		justify-content: center;
+		
+		align-items: center;
+		
+		flex-direction: column;
+	
+}
+
+
+#con {
+
+
+
+		width: 100%;
+		height: 150px;
+		
+	/*	border: 3px solid red; */
+		
+		
+		display: flex;
+		
+		justify-content: center;
+		
+		align-items: center;
+		
+	/*	flex-direction: column; */
+	
+}
+
+
+
+h1 {
+	
+	text-align: center;
+	
+	color: #273eb0;
+	
+}
+
+
+
+nav {
+	width: 280px;
+/*	border: 3px solid red; */
+	
+}
+
+
+ul {
+	
+	
+	
+		width: 280px;
+		height: 50px;
+		
+	/*	border: 3px solid red; */
+		
+		
+		
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+
+		
+		
+		
+		
+		
+		
+	
+	
+}
+
+
+li {
+	
+	
+	
+		width: 70px;
+		height: 20px;
+		
+	border: 1px solid #ccff00;
+		
+		
+		display: flex;
+		
+		justify-content: center;
+		
+		align-items: center;
+		
+	
+	
+}
+
+
+
+
+
+
+#bo {
+	
+		width: 150px;
+
+		
+		border: 1px solid #ffeb00;
+		
+				display: flex;
+		
+		justify-content: space-around;
+		
+		align-items: space-around;
+	
+	
+}
+
+
+#aa {
+
+
+
+		width: 100%;
+		height: 60vh;
+		
+/*		border: 3px solid red; */
+
+
+background-image: url("nature.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+flex-direction: column;
+
+
+}
+
+button {
+	
+	width: 70px;
+	height: 45px;
+	border: 3px solid red;
+	
+	background-color: transparent;
+	
+	
+}
+
+#bb {
+
+
+
+		width: 100%;
+		height: 80vh;
+		
+	/*		border: 3px solid red; */
+			
+			
+			display: flex;
+			
+			justify-content: center:
+			
+
+		
+		
+		
+}
+
+
+#cc {
+
+
+
+		width: 80%;
+		height: 80vh;
+		/*	border: 3px solid red; */
+			
+			
+			display: flex;
+			
+			justify-content: flex-start;
+			flex-direction: column;
+
+		
+}
+
+
+#kk{
+
+ font-size: 2rem;
+	color: #fc0303;
+
+	
+}
+
+
+h4 {
+	
+	font-size: 1.5rem;
+	
+	color: blue;
+}
+
+
+
+#vb {
+	
+	
+	font-size: 2rem;
+	color: white;
+}

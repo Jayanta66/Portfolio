@@ -1,0 +1,383 @@
+* {
+	
+	
+	
+	padding:0;
+	
+	margin: 0;
+	
+	border: 0;
+}
+
+
+
+body {
+
+
+
+		width: 100%;
+		height: 100vh;
+		
+/*		border: 3px solid red; */
+	
+}
+
+
+header {
+
+
+
+		width: 100%;
+		height: 150px;
+		
+	/*	border: 3px solid red; */
+		
+		
+		display: flex;
+		
+		justify-content: center;
+		
+		align-items: center;
+		
+		flex-direction: column;
+	
+}
+
+
+#con {
+
+
+
+		width: 100%;
+		height: 150px;
+		
+	/*	border: 3px solid red; */
+		
+		
+		display: flex;
+		
+		justify-content: center;
+		
+		align-items: center;
+		
+	/*	flex-direction: column; */
+	
+}
+
+
+
+h1 {
+	
+	text-align: center;
+	color: #e00d70;
+	
+}
+nav {
+	width: 280px;
+/*	border: 3px solid red; */
+	
+}
+
+
+ul {
+	
+	
+	
+		width: 280px;
+		height: 50px;
+		
+	/*	border: 3px solid red; */
+		
+		
+		
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+
+		
+		
+		
+		
+		
+		
+	
+	
+}
+
+
+#vb {
+	
+	
+	
+		width: 70px;
+		height: 20px;
+		
+	border: 1px solid red;
+		
+		
+		display: flex;
+		
+		justify-content: center;
+		
+		align-items: center;
+		
+	
+	
+}
+
+#vb:hover {
+	
+	
+	background-color: red;
+	
+}
+
+#io:hover {
+	
+	color: white;
+	
+}
+
+
+#bo {
+	
+		width: 150px;
+
+		
+		border: 1px solid red;
+		
+				display: flex;
+		
+		justify-content: space-around;
+		
+		align-items: space-around;
+	
+	
+}
+
+
+#aa {
+
+
+
+		width: 100%;
+		height: 60vh;
+		
+/*		border: 3px solid red; */
+
+
+background-image: url("nature.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+flex-direction: column;
+
+
+}
+
+button {
+	
+	width: 70px;
+	height: 45px;
+	border: 3px solid red;
+	
+	background-color: transparent;
+	
+	font-size: 2rem;
+	color: white;
+	
+	
+}
+
+#bb {
+
+
+
+		width: 100%;
+		height: 100vh;
+		
+	/*	border: 3px solid red; */
+			
+		display: flex;
+		
+		justify-content: center;
+			
+
+		
+		
+		
+}
+
+
+#cc {
+
+
+
+		width: 70%;
+		height: 150vh;
+	/*	border: 3px solid red; */
+			
+			
+			display: flex;
+			
+			justify-content: flex-start;
+			flex-direction: column;
+
+		
+}
+
+#ee {
+	
+
+		width: 100%;
+		height: 50px;
+/*	border: 3px solid red; */
+	
+		display: flex;
+	justify-content: center;
+	
+	
+}
+
+
+#tsk {
+	
+	width: 300px;
+	
+font-size: 2.5rem;
+
+color: white;
+
+background-color: red;
+
+	
+	
+}
+#tsk:hover {
+	
+	
+	
+	background-color: blue;
+	color: red;
+}
+
+
+
+button:hover {
+		background-color: red;
+		color: white;
+	
+}
+
+
+
+h2 {
+	
+		color: white;
+
+	
+}
+
+#kk {
+	
+	font-size:30px;
+}
+
+#kj::first-line {
+	font-size: 30px;
+	
+color: red;	
+	
+}
+
+
+#kj::first-letter{
+	
+font-size: 60px;
+	
+color: blue;
+	
+}
+
+#kl::first-line {
+	font-size: 30px;
+	
+color: red;	
+	
+}
+
+
+#kkl {
+	
+	
+	display: flex;
+	
+	justify-content: center;
+		
+}
+
+
+#sw {
+	
+			width: 100%;
+		height: 50vh;
+/*	border: 3px solid red; */
+	
+	
+	display: flex;
+	
+	justify-content: space-between;
+	
+	
+}
+
+#ro {
+	
+			width: 45%;
+		height: 40vh;
+/*	border: 3px solid green; */
+	
+	
+	
+	
+}
+
+
+
+#wr {
+	
+			width: 20%;
+		height: 40vh;
+/*	border: 3px solid green; 
+*/	
+	
+	background-image: url("sss.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	
+
+		
+}
+
+
+
+
+h6 {
+	
+	font-size: 2rem;
+	
+}
+
+
+span{
+	
+	
+	vertical-align: 10vh;
+}
